@@ -1,1 +1,4 @@
-the discount for the new Coffehut_Wallet payment option and the new “loyal” user profile included in the backend.
+new_discounts
+# CoffeeHut_Frontend
+new discounts added for loyal customers
+

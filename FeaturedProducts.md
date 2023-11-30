@@ -1,1 +1,3 @@
-new entries added in banckend
+new_discounts
+new discount details added.
+
